@@ -4,10 +4,27 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-
-
-
+        {
+            "type": "java",
+            "name": "Launch MediaIdade",
+            "request": "launch",
+            "mainClass": "MediaIdade",
+            "projectName": "java-terminal_8961a2a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch DesafioIdade$Main",
+            "request": "launch",
+            "mainClass": "DesafioIdade$Main",
+            "projectName": "java-terminal_8961a2a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java-terminal_8961a2a2"
+        },
         {
             "type": "java",
             "name": "Launch Current File",
